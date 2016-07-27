@@ -37,7 +37,8 @@ header, nav, section, aside, footer {
 	margin-top: 10px;
 }
 
-/*This gives header, nav and footer height and padding height and pading attributes*/
+/*This gives header, nav and footer height and 
+padding height and pading attributes*/
 header, nav, footer {
 	height: 70px;
 	padding-top: 10px;
@@ -94,7 +95,4 @@ footer {
 	margin-top: 0;
 }
 
-/*Not quite sure why I would use the .clear class - need to research more*/
-/*.clear {
 	
-}*/
